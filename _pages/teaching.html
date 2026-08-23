@@ -4,13 +4,15 @@ permalink: /teaching/
 author_profile: true
 ---
 
+### Teaching assistant
+
 {% assign courses = site.teaching | sort: "date" | reverse %}
 
 {% for course in courses %}
 
-**{{ course.semester }}: {{ course.title }}**  
-{{ course.type }}  
-Instructors: {{ course.instructors }}  
-{{ course.venue }}, {{ course.location }}
+- **{{ course.semester }}: {{ course.title }}**  
+  {{ course.type }}  
+  Instructors: {{ course.instructors }}  
+  {{ course.venue }}, {{ course.location }}
 
 {% endfor %}
