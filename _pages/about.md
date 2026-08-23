@@ -15,4 +15,4 @@ My broad research interests are issues in the syntax-semantics interface, histor
 
 My narrow research interests are syntax of null arguments and ellipsis, syntax-semantics of indexical shift and logophoricity in reason and purpose clauses, typology of say-complementation/subordination constructions, development of agreement markers. 
 
-Feel free to drop me an email if you have any questions and/or you would like to have a chat with me!
+Feel free to drop me an [email](miray.goekkaya@uni-konstanz.de) if you have any questions and/or you would like to have a chat with me!
