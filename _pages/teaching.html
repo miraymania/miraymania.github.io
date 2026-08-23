@@ -11,7 +11,7 @@ author_profile: true
 <ul class="teaching-list">
 {% for course in courses %}
   <li>
-    <strong>{{ course.semester }}: {{ course.title }}</strong><br>
+    <strong>{{ course.semester }}: <em>{{ course.title }}</em></strong><br>
     {{ course.type }}<br>
     Instructors: {{ course.instructors }}<br>
     {{ course.venue }}, {{ course.location }}
