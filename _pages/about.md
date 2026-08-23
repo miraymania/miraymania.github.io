@@ -13,6 +13,6 @@ Before starting my doctoral studies, I completed my MA degree in General Linguis
 
 My broad research interests are issues in the syntax-semantics interface, historical syntax, morphosyntax, and linguistic typology. 
 
-My narrow research interests are syntax of null arguments and ellipsis, syntax-semantics of indexical shift and logophoricity in reason and purpose clauses, typology of say-complementation/subordination constructions, development of agreement markers. 
+My narrow research interests are syntax of null arguments and ellipsis, syntax-semantics of indexical shift and logophoricity in reason and purpose clauses, say-complementation/subordination constructions, development of agreement markers. 
 
 Feel free to drop me an email if you have any questions and/or you would like to have a chat with me!
