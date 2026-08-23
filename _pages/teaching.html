@@ -8,7 +8,7 @@ author_profile: true
 
 {% assign courses = site.teaching | sort: "date" | reverse %}
 
-<ul class="teaching-list">
+<ul class="teaching-list no-bullets">
 {% for course in courses %}
   <li>
     <strong>{{ course.semester }}: <em>{{ course.title }}</em></strong><br>
