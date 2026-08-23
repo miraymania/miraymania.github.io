@@ -3,17 +3,8 @@ title: "Praat Scripting"
 collection: teaching
 type: "Graduate Course"
 venue: "University of Konstanz"
-date: 2015-01-01
-location: "City, Country"
+date: 2023-11-01
+instructor: "Dr. Fernanda Barrientos"
+semester: "Winter Semester 2023/2024"
+location: "Konstanz, Germany"
 ---
-
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
