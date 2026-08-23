@@ -1,7 +1,11 @@
 .talk-item {
   margin-bottom: 1em;
 }
-.teaching-list li {
+.teaching-list.no-bullets {
+  list-style: none;
+  padding-left: 0;
+}
+.teaching-list.no-bullets li {
   margin-bottom: 1.5em;
 }
 .teaching-subtitle {
