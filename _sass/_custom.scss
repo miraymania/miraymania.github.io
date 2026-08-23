@@ -18,5 +18,8 @@
   box-shadow: none !important;
   text-decoration: none !important;
   margin-top: 1em;
-
+}
+::selection {
+  background: #efcdef;
+  color: #000000;
 }
