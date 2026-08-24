@@ -11,8 +11,10 @@ Hey there! I am a doctoral researcher in [SFB 1760 Silence, Noise and Signal in 
 
 Before starting my doctoral studies, I completed my MA degree in General Linguistics at the University of Konstanz. My MA thesis explored the syntax-semantics interface of say-subordination constructions (diye clauses) that express reason and purpose relations in Turkish under the supervision of [Maribel Romero](https://ling.sprachwiss.uni-konstanz.de/pages/home/romero/) (main) and [George Walkden](https://walkden.space/). Before that, I completed my BA degree in Linguistics at Boğaziçi University. 
 
-My broad research interests are issues in the syntax-semantics interface, historical syntax, morphosyntax, and linguistic typology. 
+My broad research interests are issues in the syntax-semantics interface, historical syntax, morphosyntax, fieldwork, and linguistic typology and fieldwork. 
 
 My narrow research interests are syntax of null arguments and ellipsis, syntax-semantics of indexical shift and logophoricity in reason and purpose clauses, say-complementation/subordination constructions, development of agreement markers. 
+
+In my free time, I like reading about politics, philosophy, history, and cinema; watching movies, knitting, discovering new songs from all over the world, and cycling. 
 
 Feel free to drop me an email if you have any questions and/or you would like to have a chat with me!
