@@ -9,11 +9,11 @@ redirect_from:
 
 Hey there! I am a doctoral researcher in [SFB 1760 Silence, Noise and Signal in Language](https://www.sfb1760.uni-konstanz.de/) as part of the Project A01 [Silent Subjects Without (Silent) Agreement](https://www.sfb1760.uni-konstanz.de/research-projects/project-group-a/a01-walkden-silent-subjects-without-silent-agreement/) at the University of Konstanz. My PhD research examines null arguments and ellipsis in diachrony with a focus on (Brazilian) Portuguese and Turkic languages, supervised by [George Walkden](https://walkden.space/) (main) and [Maribel Romero](https://ling.sprachwiss.uni-konstanz.de/pages/home/romero/). 
 
-Before starting my doctoral studies, I completed my MA degree in General Linguistics at the University of Konstanz. My MA thesis explored the syntax-semantics interface of reason and purpose clauses that are marked by diye (diachronically comes from the verb say) in Turkish under the supervision of [Maribel Romero](https://ling.sprachwiss.uni-konstanz.de/pages/home/romero/) (main) and [George Walkden](https://walkden.space/). Before that, I completed my BA degree in Linguistics at Boğaziçi University. 
+Before starting my doctoral studies, I completed my MA degree in General Linguistics at the University of Konstanz. My MA thesis explored the syntax-semantics interface of reason and purpose clauses in Turkish under the supervision of [Maribel Romero](https://ling.sprachwiss.uni-konstanz.de/pages/home/romero/) (main) and [George Walkden](https://walkden.space/). Before that, I completed my BA degree in Linguistics at Boğaziçi University. 
 
 My broad research interests are issues in the syntax-semantics interface, historical syntax, morphosyntax, and linguistic typology and fieldwork. 
 
-My narrow research interests are syntax of null arguments and ellipsis, syntax-semantics of indexical shift and logophoricity in reason and purpose clauses, say-complementation constructions, development of agreement markers. 
+My narrow research interests are null arguments and ellipsis, syntax-semantics interface of indexical shift and logophoricity in reason and purpose clauses, say-complementation constructions, development of agreement markers. 
 
 In my free time, I like reading about politics, philosophy, history, and cinema; watching movies, knitting, discovering new songs from all over the world, and cycling. 
 
